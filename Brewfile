@@ -23,7 +23,7 @@ brew php@7.2
 brew xhyve
 brew yamllint
 brew yarn
-brew zsh
+#brew zsh : Zsh is now the default shell on Catalina
 brew zsh-completions
 
 tap homebrew/cask-fonts
