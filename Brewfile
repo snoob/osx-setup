@@ -23,6 +23,7 @@ brew php@7.2
 brew xhyve
 brew yamllint
 brew yarn
+brew zsh
 brew zsh-completions
 
 tap homebrew/cask-fonts
