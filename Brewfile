@@ -25,9 +25,6 @@ brew yarn
 #brew zsh : Zsh is now the default shell on Catalina
 brew zsh-completions
 
-tap homebrew/cask-fonts
-cask font-hack-nerd-font
-
 #Cask applications
 cask appzapper
 cask dashlane
