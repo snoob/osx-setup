@@ -1,4 +1,5 @@
 tap homebrew/cask-fonts
+tap homebrew/command-not-found
 tap codekitchen/dinghy
 tap jesseduffield/lazydocker
 
@@ -25,9 +26,6 @@ brew yamllint
 brew yarn
 #brew zsh : Zsh is now the default shell on Catalina
 brew zsh-completions
-
-tap homebrew/cask-fonts
-cask font-hack-nerd-font
 
 #Cask applications
 cask appzapper
