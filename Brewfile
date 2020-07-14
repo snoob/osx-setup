@@ -2,7 +2,6 @@ tap homebrew/cask-fonts
 tap codekitchen/dinghy
 tap jesseduffield/lazydocker
 
-brew ack
 brew autojump
 brew bash-completion
 brew composer
